@@ -25,7 +25,7 @@ let serverNames = [
 ];
 var channelID = '701928202804920381';
 
-client.login(token);
+client.login("ODMzODUyNDc2ODU1NDE4OTAw.YH4Xog.aZa_R-dEDJs36zj9PT8zbQu4ng0");
 client.on('ready', () => {
   console.log('bot is ON');
   const channel = client.channels.cache.get(channelID);
